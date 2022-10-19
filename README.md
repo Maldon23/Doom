@@ -1,19 +1,8 @@
-# Yet Another Doom Clone
+## TO PLAY
 
-<video src="https://user-images.githubusercontent.com/1269300/156980344-344241d8-be41-4bcc-9b94-3cd27292116a.mp4"></video>
+[play online](https://maldon23.github.io/Doom/doom.html))
 
-It's yet another doom clone, but implemented in 13kb of (compressed) JavaScript.
-
-## I JUST WANT TO PLAY
-
-If you just want to play the game (and don't want to play it [online](https://maldon23.github.io/Doom/doom.html)) then you can get started by cloning this repository:
-
-```git clone https://github.com/carlini/js13k2019-yet-another-doom-clone.git```
-
-and then just directly view the file [doom.html](doom.html) from your browser.
-
-
-### I want to see developer mode
+### Developer mode
 
 From the main repository view the file [src/webgl.html](src/webgl.html) from your browser.
 
