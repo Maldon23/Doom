@@ -6,7 +6,7 @@ It's yet another doom clone, but implemented in 13kb of (compressed) JavaScript.
 
 ## I JUST WANT TO PLAY
 
-If you just want to play the game (and don't want to play it [online](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)) then you can get started by cloning this repository:
+If you just want to play the game (and don't want to play it [online](https://maldon23.github.io/Doom/doom.html)) then you can get started by cloning this repository:
 
 ```git clone https://github.com/carlini/js13k2019-yet-another-doom-clone.git```
 
