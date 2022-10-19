@@ -4,8 +4,6 @@
 
 It's yet another doom clone, but implemented in 13kb of (compressed) JavaScript.
 
-Writeup of the development process: [https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html).
-
 ## I JUST WANT TO PLAY
 
 If you just want to play the game (and don't want to play it [online](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)) then you can get started by cloning this repository:
