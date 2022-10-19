@@ -1,6 +1,6 @@
 ## TO PLAY
 
-[play online](https://maldon23.github.io/Doom/doom.html))
+[play online](https://maldon23.github.io/Doom/doom.html)
 
 ### Developer mode
 
